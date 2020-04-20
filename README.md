@@ -1,2 +1,0 @@
-# SampleGIT
-Sample git
